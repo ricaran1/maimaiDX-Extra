@@ -25,12 +25,9 @@
 ### 安装依赖插件  
 确保 maimaiDX 插件已安装：
 
-```bash
 # 按照原插件的 README 进行安装和配置
 克隆本插件并放到 nonebot 的插件目录中：
 
-bash
-git clone <插件仓库地址>
 在 pyproject.toml 中填入：
 
 toml
