@@ -1,4 +1,4 @@
-# maimaiDX extra插件 - b50 查询功能
+# MaimaiDX Extra插件 - 更多的b50查询功能
 
 本插件是基于 [maimaiDX 插件](https://github.com/Yuri-YuzuChaN/maimaiDX) 开发的额外扩展功能，提供了多个实用的 b50 查询功能。
 
@@ -33,7 +33,11 @@
 
 plugins = ["nonebot_plugin_maimaidx_extra"]
 
-### 🚀 使用开发者 Token
+### 资源文件
+
+将music_data_extra.json放至maimaiDX插件的static文件夹中
+
+### 使用开发者 Token
 
 本插件的 b50 查询功能需要开发者 Token 以访问数据接口，请确保将 Token 填写到对应的配置文件中。
 
@@ -48,6 +52,7 @@ plugins = ["nonebot_plugin_maimaidx_extra"]
 本插件基于 maimaiDX 开发。
 仅供个人娱乐与学习使用，严禁用于商业用途。
 如有侵权，请联系插件作者移除相关内容。
+班尼特和喵呜不可以使用该插件
 感谢使用！如果觉得本插件对你有帮助，请记得点亮 Star ✨。
 
 
