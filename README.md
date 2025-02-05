@@ -1,6 +1,6 @@
 # MaimaiDX Extra插件 - 更多的b50查询功能
 
-本插件是基于 [maimaiDX 插件]((https://github.com/Yuri-YuzuChaN/nonebot-plugin-maimaidx)) 开发的额外扩展功能，提供了多个实用的 b50 查询功能。
+本插件是基于 [maimaiDX 插件](https://github.com/Yuri-YuzuChaN/nonebot-plugin-maimaidx) 开发的额外扩展功能，提供了多个实用的 b50 查询功能。
 
 ## ⚙️ 使用说明
 
