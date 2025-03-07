@@ -6748,5 +6748,299 @@
         "name": "[宴]DETARAME ROCK&ROLL THEORY",
         "version": "Ver1.40.00",
         "category": "dx"
+    },
+    {
+        "id": "11612",
+        "name": "Latent Kingdom",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "10242",
+        "name": "ナミダと流星",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "10366",
+        "name": "oboro",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11333",
+        "name": "Southern Cross",
+        "version": "Ver1.20.00",
+        "category": "sd"
+    },
+    {
+        "id": "11567",
+        "name": "I’m Here (feat. Merry Kirk-Holmes)",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11597",
+        "name": "ノンブレス・オブリージュ",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11613",
+        "name": "Mystic Parade",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11614",
+        "name": "Cry Cry Cry",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11615",
+        "name": "ぽわわん劇場",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11616",
+        "name": "my flow",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11617",
+        "name": "POWER OF UNITY",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11618",
+        "name": "Energizing Flame",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11619",
+        "name": "KHYMΞXΛ",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11624",
+        "name": "SQUAD-Phvntom-",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11638",
+        "name": "星界ちゃんと可不ちゃんのおつかい合騒曲",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11640",
+        "name": "with U",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11641",
+        "name": "Love Kills U",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11642",
+        "name": "DANGEROOOOUS JUNGLE",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11643",
+        "name": "天使光輪",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11652",
+        "name": "HUMANBORG",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11653",
+        "name": "ULTRA POWER",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "131",
+        "name": "Link",
+        "version": "Ver1.00.00",
+        "category": "sd"
+    },
+    {
+        "id": "1103",
+        "name": "渦状銀河のシンフォニエッタ",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "10185",
+        "name": "＊ハロー、プラネット。",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11009",
+        "name": "STEREOSCAPE",
+        "version": "Ver1.00.00",
+        "category": "sd"
+    },
+    {
+        "id": "11010",
+        "name": "STARTLINER",
+        "version": "Ver1.05.00",
+        "category": "sd"
+    },
+    {
+        "id": "11015",
+        "name": "一か罰",
+        "version": "Ver1.05.00",
+        "category": "sd"
+    },
+    {
+        "id": "11150",
+        "name": "ウマイネームイズうまみちゃん",
+        "version": "Ver1.10.00",
+        "category": "sd"
+    },
+    {
+        "id": "11177",
+        "name": "レーイレーイ",
+        "version": "Ver1.10.00",
+        "category": "sd"
+    },
+    {
+        "id": "11232",
+        "name": "Never Give Up!",
+        "version": "Ver1.15.00",
+        "category": "sd"
+    },
+    {
+        "id": "11420",
+        "name": "Photon Melodies",
+        "version": "Ver1.25.00",
+        "category": "sd"
+    },
+    {
+        "id": "11421",
+        "name": "吾輩よ猫であれ",
+        "version": "Ver1.25.00",
+        "category": "sd"
+    },
+    {
+        "id": "11430",
+        "name": "オントロジー",
+        "version": "Ver1.25.00",
+        "category": "sd"
+    },
+    {
+        "id": "11431",
+        "name": "剣を抜け！GCCX MAX",
+        "version": "Ver1.25.00",
+        "category": "sd"
+    },
+    {
+        "id": "11450",
+        "name": "YONA YONA DANCE",
+        "version": "Ver1.25.00",
+        "category": "sd"
+    },
+    {
+        "id": "11620",
+        "name": "フェイクフェイス・フェイルセイフ",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11621",
+        "name": "ふらふらふら、",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11622",
+        "name": "シックスプラン",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11623",
+        "name": "フタタビ",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11639",
+        "name": "Burn My Soul",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11645",
+        "name": "トンデモワンダーズ",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11646",
+        "name": "神威",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11647",
+        "name": "ozma",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11648",
+        "name": "月面基地",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11654",
+        "name": "ジェヘナ",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11655",
+        "name": "ツギハギスタッカート",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11661",
+        "name": "Apollo",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11662",
+        "name": "raputa",
+        "version": "Ver1.40.00",
+        "category": "dx"
+    },
+    {
+        "id": "11668",
+        "name": "PinqPiq (xovevox Remix)",
+        "version": "Ver1.40.00",
+        "category": "dx"
     }
 ]
