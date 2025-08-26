@@ -16,6 +16,7 @@
 - **fc50 查询**
 - **（鸟/鸟+）寸50 查询**
 - **（鸟/鸟+）锁50 查询**
+- **pc50/拟合50 查询**
 - 其他 b50 功能正在开发中，敬请期待。
 
 ---
@@ -33,9 +34,11 @@
 
 plugins = ["nonebot_plugin_maimaidx_extra"]
 
+请在maimaidx_extra.py中的data_to_b50data等函数中添加对应的所提到的其他函数
+
 ### 资源文件
 
-将music_data_extra.json放至maimaiDX插件的static文件夹中
+将music_data_extra.json和nh_mai_music_data.json放至maimaiDX插件的static文件夹中
 
 ### 使用开发者 Token
 
@@ -56,7 +59,7 @@ plugins = ["nonebot_plugin_maimaidx_extra"]
 
 如有侵权，请联系插件作者移除相关内容。
 
-班尼特和喵呜不可以使用该插件
+喵呜不可以使用该插件
 
 感谢使用！如果觉得本插件对你有帮助，请记得点亮 Star ✨。
 
