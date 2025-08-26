@@ -35,7 +35,8 @@ music_file: Path = static / 'music_data.json'                   # 曲目暂存�
 chart_file: Path = static / 'music_chart.json'                  # 谱面数据暂存文件
 guess_file: Path = static / 'group_guess_switch.json'           # 猜歌开关群文件
 group_alias_file: Path = static / 'group_alias_switch.json'     # 别名推送开关群文件
-music_extra_file: Path = static / 'music_data_extra.json'      # 谱面数据暂存文件
+music_extra_file: Path = static / 'music_data_extra.json'       # 谱面数据文件
+nh_mai_music_file: Path=  static / 'nh_mai_music_data.json'     # 谱面拟合定数数据文件
 
 # 静态资源路径
 maimaidir: Path = static / 'mai' / 'pic'
