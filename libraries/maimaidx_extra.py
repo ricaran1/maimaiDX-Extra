@@ -2,12 +2,6 @@ import json
 from ..config import *
 from loguru import logger
 
-plugin_data_path=...#这里填入你的插件数据文件夹路径
-#舞萌乐曲数据
-mai_music_data_path = f'{plugin_data_path}/mai_music_data.json'
-#拟合定数数据
-nh_mai_music_data_path = f'{plugin_data_path}/nh_mai_music_data.json'
-
 combo_to_fc = ["", "fc", "fcp", "ap", "app", "sync"]
 sync_to_fs =  ["", "fs", "fsp", "fsd", "fsdp", "sync"]
 level_index_to_label = ["Basic", "Advanced", "Expert", "Master", "Re:MASTER"]
@@ -149,8 +143,8 @@ def load_json(filename: str):
 
 def load_music_data(nhcode: int = 0):
     if nhcode == 1:
-        return load_json(nh_mai_music_data_path)
-    return load_json(mai_music_data_path)
+        return load_json(nh_mai_music_file)
+    return load_json(music_extra_file)
 
 def cal_ra(achievements, ds):
     coefficient = 0.0
