@@ -3,7 +3,7 @@ from nonebot.adapters.onebot.v11 import Message, MessageEvent
 from nonebot.matcher import Matcher
 from nonebot.params import CommandArg
 
-from ..libraries.image import to_bytes_io
+from ..libraries.image import text_to_bytes_io
 from ..libraries.maimaidx_music_info import *
 from ..libraries.maimaidx_player_score import *
 from ..libraries.maimaidx_update_plate import *
@@ -21,6 +21,6 @@ async def _(event: MessageEvent, matcher: Matcher, arg: Message = CommandArg()):
     username = arg.extract_plain_text().split()
     if _q := get_at_qq(arg):
         qqid = _q
-    obj = await maiApi.query_user_dev(qqid=qqid, username=username)
+    obj = await maiApi.query_user_get_dev(qqid=qqid, username=username)
     userdata=await fc50(obj)
     await matcher.finish(await generate_other50(userdata,qqid, username), reply_message=True)
